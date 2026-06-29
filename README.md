@@ -49,10 +49,8 @@ notebooks/
 images/
 README.md
 
-## Results
-
-(Add screenshots of your charts and Power BI dashboard here.)
-
 ## Author
+
+Swarup Nilesh Kharbikar
 
 Your Name
